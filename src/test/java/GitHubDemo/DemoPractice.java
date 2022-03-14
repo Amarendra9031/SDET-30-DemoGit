@@ -8,6 +8,12 @@ public class DemoPractice
 	public void demoPractice()
 	{
      System.out.println("User - First");
+     
+    
+     
+     
+     
+     System.out.println("User - Second");
     
 	}
 }
